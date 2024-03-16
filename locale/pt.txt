@@ -1,0 +1,61 @@
+#: locale=pt
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Caixa Dagua 15/03
+
+## Skin
+
+### Label
+Label_55F1B0D1_46CA_79C3_41C3_A3CF8ACF9BDA.text = Virtual Excursão 2024
+Label_57294FD2_46BA_07C1_41D1_8240ADC872E8.text = Guia Virtual : Ricardo Augusto
+label4056.text = Museu do Morro Da Caixa D’Água Velha
+
+## Media
+
+### Subtitle
+album_56BF8502_46CE_3846_41C0_E9483005C40B.subtitle = Museu 
+panorama_4F17BB12_4329_0B70_41AE_65A1BE4CBB22.subtitle = 2
+panorama_5074B779_43E9_3BB0_41C2_31B058394444.subtitle = 1
+
+### Title
+album_56BF8502_46CE_3846_41C0_E9483005C40B.label = Galeria
+album_56BF8502_46CE_3846_41C0_E9483005C40B_0.label = GOPR1518
+album_56BF8502_46CE_3846_41C0_E9483005C40B_1.label = GOPR1524
+album_56BF8502_46CE_3846_41C0_E9483005C40B_2.label = GOPR1536
+album_56BF8502_46CE_3846_41C0_E9483005C40B_3.label = GOPR1677
+album_56BF8502_46CE_3846_41C0_E9483005C40B_4.label = GOPR1691
+panorama_4A46A3A8_46BA_1841_41C0_A1D1D96CA74A.label = 3.2 Corredor A
+panorama_4B5C89B5_46CA_0842_41BC_49F85EDCC394.label = 3_1
+panorama_4F17BB12_4329_0B70_41AE_65A1BE4CBB22.label = 2 Calcada Superior
+panorama_50488181_4329_1753_41B2_93750EF65EC4.label = 4.2 Corredor A Meio
+panorama_5074B779_43E9_3BB0_41C2_31B058394444.label = 1 calcada_entrada
+panorama_563DFF5C_432F_0BF1_41A0_76FBD96D11E0.label = 4 Corredor A Fundo
+panorama_57D5ECAB_4319_0D57_41D0_5A9A19CAC4CB.label = 5 Corredor B Inicio
+panorama_5E4A1FB2_474A_0841_4175_E637CAD844C4.label = 76
+panorama_5EE25347_474A_78CF_41B7_F2CDFC322B13.label = 74
+photo_56558C42_46CA_08C1_41BF_CB3AC878BF1A.label = GOPR1689
+photo_56558C42_46CA_08C1_41BF_CB3AC878BF1A.label = GOPR1689
+photo_56854243_46CA_78C7_418C_64F1BBB70A91.label = GOPR1878
+photo_56854243_46CA_78C7_418C_64F1BBB70A91.label = GOPR1878
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_4DCDA4CD_4329_FED3_41B4_10F13436EA18.toolTip = Placa Publicitaria
+
+## Action
+
+### Text to Speech
+TextToSpeechBehaviour_5088F5A5_475A_7842_41D1_9BD4F4CE88F4.text = Vamos visistar o museu. Siga-me por favor!
+TextToSpeechBehaviour_5FF69BD2_474A_0FC6_41C5_D4C9D8DB2B42.text = Estamos na Recepção do Museu. \
+Não esqueça de registrar sua presença. \
+ \
+É importante esta informação.
+
+### URL
+LinkBehaviour_50453DAF_4329_0F50_4183_9874FF6BECD0.source = https://www.camaracuiaba.mt.gov.br/index.php?pag=tur_item&id=20
+LinkBehaviour_55917C8C_46CA_0841_41C6_5A2707A59353.source = https://www.camaracuiaba.mt.gov.br/index.php?pag=tur_item&id=20
