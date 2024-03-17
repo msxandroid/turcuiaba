@@ -22,21 +22,28 @@ panorama_4F17BB12_4329_0B70_41AE_65A1BE4CBB22.subtitle = 2
 panorama_5074B779_43E9_3BB0_41C2_31B058394444.subtitle = 1
 
 ### Title
-album_56BF8502_46CE_3846_41C0_E9483005C40B.label = Galeria
+album_56BF8502_46CE_3846_41C0_E9483005C40B.label = Galeria A
 album_56BF8502_46CE_3846_41C0_E9483005C40B_0.label = GOPR1518
 album_56BF8502_46CE_3846_41C0_E9483005C40B_1.label = GOPR1524
 album_56BF8502_46CE_3846_41C0_E9483005C40B_2.label = GOPR1536
 album_56BF8502_46CE_3846_41C0_E9483005C40B_3.label = GOPR1677
 album_56BF8502_46CE_3846_41C0_E9483005C40B_4.label = GOPR1691
+album_5EA228A1_4CEE_1230_417A_29BC12DFBE88.label = Galeria B
+album_5EA228A1_4CEE_1230_417A_29BC12DFBE88_0.label = GOPR1697
+album_5EA228A1_4CEE_1230_417A_29BC12DFBE88_1.label = GOPR1698
+album_5EA228A1_4CEE_1230_417A_29BC12DFBE88_2.label = GOPR1699
+album_5EA228A1_4CEE_1230_417A_29BC12DFBE88_3.label = GOPR1700
+album_5EA228A1_4CEE_1230_417A_29BC12DFBE88_4.label = GOPR1701
 panorama_4A46A3A8_46BA_1841_41C0_A1D1D96CA74A.label = 3.2 Corredor A
-panorama_4B5C89B5_46CA_0842_41BC_49F85EDCC394.label = 3_1
+panorama_4B5C89B5_46CA_0842_41BC_49F85EDCC394.label = 3 Corredor Entrada
 panorama_4F17BB12_4329_0B70_41AE_65A1BE4CBB22.label = 2 Calcada Superior
 panorama_50488181_4329_1753_41B2_93750EF65EC4.label = 4.2 Corredor A Meio
 panorama_5074B779_43E9_3BB0_41C2_31B058394444.label = 1 calcada_entrada
 panorama_563DFF5C_432F_0BF1_41A0_76FBD96D11E0.label = 4 Corredor A Fundo
-panorama_57D5ECAB_4319_0D57_41D0_5A9A19CAC4CB.label = 5 Corredor B Inicio
-panorama_5E4A1FB2_474A_0841_4175_E637CAD844C4.label = 76
-panorama_5EE25347_474A_78CF_41B7_F2CDFC322B13.label = 74
+panorama_57D5ECAB_4319_0D57_41D0_5A9A19CAC4CB.label = 6 Corredor B Inicio
+panorama_5B8F490C_4D2E_33F0_41CB_CC2A578FD2C0.label = 7 Corredor C 
+panorama_5C044DC2_4CF6_3270_41C9_F5D4F6574EC3.label = 6 Corredor B
+panorama_5C7CB49D_4CD9_F210_41D3_21D35918E1A7.label = 7 Corredor 3
 photo_56558C42_46CA_08C1_41BF_CB3AC878BF1A.label = GOPR1689
 photo_56558C42_46CA_08C1_41BF_CB3AC878BF1A.label = GOPR1689
 photo_56854243_46CA_78C7_418C_64F1BBB70A91.label = GOPR1878
@@ -45,16 +52,23 @@ photo_56854243_46CA_78C7_418C_64F1BBB70A91.label = GOPR1878
 ## Hotspot
 
 ### Tooltip
+HotspotPanoramaOverlayArea_42616DD2_4CD6_1210_41AA_E6AE45373D80.toolTip = Voltar
+HotspotPanoramaOverlayArea_43895B1C_4CDE_1610_419C_584178D9ECC5.toolTip = Corredor 2
 HotspotPanoramaOverlayArea_4DCDA4CD_4329_FED3_41B4_10F13436EA18.toolTip = Placa Publicitaria
+HotspotPanoramaOverlayArea_56442CC6_4319_0EDD_41D0_58BD597AFA00.toolTip = Avancar Corretor 3
 
 ## Action
 
 ### Text to Speech
-TextToSpeechBehaviour_5088F5A5_475A_7842_41D1_9BD4F4CE88F4.text = Vamos visistar o museu. Siga-me por favor!
-TextToSpeechBehaviour_5FF69BD2_474A_0FC6_41C5_D4C9D8DB2B42.text = Estamos na Recepção do Museu. \
-Não esqueça de registrar sua presença. \
+TextToSpeechBehaviour_433091EC_4CD6_1230_41C9_0DF1BA2C1739.text = Neste corredor vamos contemplar muitas fotografias de Cuiabá e seus Personagens.
+TextToSpeechBehaviour_55108EC1_4D3A_0E70_41A0_54FE3B2C0447.text = Estamos na recepção, entrada e saida do museu. \
+
+TextToSpeechBehaviour_55837750_4D3E_7E10_41D0_21755BC18221.text = Vamos visita o museu da caixa dagua velha. \
  \
-É importante esta informação.
+Siga a seta para mudar a visão ou veja ao seu redor. \
+ \
+
+TextToSpeechBehaviour_5B7FF02B_4D36_7230_41CE_2643CD626916.text = Deixe seu registro de visita. E muito importante nos deixar sua visita.
 
 ### URL
 LinkBehaviour_50453DAF_4329_0F50_4183_9874FF6BECD0.source = https://www.camaracuiaba.mt.gov.br/index.php?pag=tur_item&id=20
